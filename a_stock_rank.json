@@ -1,0 +1,706 @@
+{
+  "status": "ok",
+  "count": 100,
+  "results": [
+    {
+      "rank": 1,
+      "code": "SZ002185",
+      "name": "华天科技",
+      "rank_change": 0,
+      "history_rank_change": 1
+    },
+    {
+      "rank": 2,
+      "code": "SH600584",
+      "name": "长电科技",
+      "rank_change": 0,
+      "history_rank_change": -1
+    },
+    {
+      "rank": 3,
+      "code": "SZ002579",
+      "name": "中京电子",
+      "rank_change": 0,
+      "history_rank_change": 4
+    },
+    {
+      "rank": 4,
+      "code": "SZ000636",
+      "name": "风华高科",
+      "rank_change": 0,
+      "history_rank_change": 15
+    },
+    {
+      "rank": 5,
+      "code": "SH600396",
+      "name": "华电辽能",
+      "rank_change": 0,
+      "history_rank_change": -2
+    },
+    {
+      "rank": 6,
+      "code": "SH601991",
+      "name": "大唐发电",
+      "rank_change": 0,
+      "history_rank_change": -2
+    },
+    {
+      "rank": 7,
+      "code": "SH601138",
+      "name": "工业富联",
+      "rank_change": 0,
+      "history_rank_change": 35
+    },
+    {
+      "rank": 8,
+      "code": "SZ000725",
+      "name": "京东方Ａ",
+      "rank_change": 0,
+      "history_rank_change": -3
+    },
+    {
+      "rank": 9,
+      "code": "SH600726",
+      "name": "华电能源",
+      "rank_change": 0,
+      "history_rank_change": 2
+    },
+    {
+      "rank": 10,
+      "code": "SH603601",
+      "name": "再升科技",
+      "rank_change": 0,
+      "history_rank_change": 8
+    },
+    {
+      "rank": 11,
+      "code": "SZ000063",
+      "name": "中兴通讯",
+      "rank_change": 0,
+      "history_rank_change": 324
+    },
+    {
+      "rank": 12,
+      "code": "SZ300308",
+      "name": "中际旭创",
+      "rank_change": 0,
+      "history_rank_change": 59
+    },
+    {
+      "rank": 13,
+      "code": "SZ002428",
+      "name": "云南锗业",
+      "rank_change": 0,
+      "history_rank_change": 121
+    },
+    {
+      "rank": 14,
+      "code": "SZ000539",
+      "name": "粤电力Ａ",
+      "rank_change": 0,
+      "history_rank_change": 0
+    },
+    {
+      "rank": 15,
+      "code": "SH600172",
+      "name": "黄河旋风",
+      "rank_change": 0,
+      "history_rank_change": 54
+    },
+    {
+      "rank": 16,
+      "code": "SZ300975",
+      "name": "商络电子",
+      "rank_change": 0,
+      "history_rank_change": 57
+    },
+    {
+      "rank": 17,
+      "code": "SZ002484",
+      "name": "江海股份",
+      "rank_change": 0,
+      "history_rank_change": 11
+    },
+    {
+      "rank": 18,
+      "code": "SH600330",
+      "name": "天通股份",
+      "rank_change": 0,
+      "history_rank_change": 12
+    },
+    {
+      "rank": 19,
+      "code": "SH600176",
+      "name": "中国巨石",
+      "rank_change": 0,
+      "history_rank_change": 195
+    },
+    {
+      "rank": 20,
+      "code": "SZ301217",
+      "name": "铜冠铜箔",
+      "rank_change": 0,
+      "history_rank_change": 179
+    },
+    {
+      "rank": 21,
+      "code": "SZ002156",
+      "name": "通富微电",
+      "rank_change": 0,
+      "history_rank_change": -12
+    },
+    {
+      "rank": 22,
+      "code": "SH603773",
+      "name": "沃格光电",
+      "rank_change": 0,
+      "history_rank_change": 5
+    },
+    {
+      "rank": 23,
+      "code": "SH603986",
+      "name": "兆易创新",
+      "rank_change": 0,
+      "history_rank_change": 0
+    },
+    {
+      "rank": 24,
+      "code": "SZ300179",
+      "name": "四方达",
+      "rank_change": 0,
+      "history_rank_change": 173
+    },
+    {
+      "rank": 25,
+      "code": "SH600110",
+      "name": "诺德股份",
+      "rank_change": 1,
+      "history_rank_change": 388
+    },
+    {
+      "rank": 26,
+      "code": "SH600863",
+      "name": "华能蒙电",
+      "rank_change": -1,
+      "history_rank_change": -16
+    },
+    {
+      "rank": 27,
+      "code": "SZ000021",
+      "name": "深科技",
+      "rank_change": 0,
+      "history_rank_change": -19
+    },
+    {
+      "rank": 28,
+      "code": "SH603256",
+      "name": "宏和科技",
+      "rank_change": 0,
+      "history_rank_change": 190
+    },
+    {
+      "rank": 29,
+      "code": "SZ002552",
+      "name": "宝鼎科技",
+      "rank_change": 0,
+      "history_rank_change": 59
+    },
+    {
+      "rank": 30,
+      "code": "SH603678",
+      "name": "火炬电子",
+      "rank_change": 0,
+      "history_rank_change": 100
+    },
+    {
+      "rank": 31,
+      "code": "SZ002669",
+      "name": "康达新材",
+      "rank_change": 0,
+      "history_rank_change": 77
+    },
+    {
+      "rank": 32,
+      "code": "SH603005",
+      "name": "晶方科技",
+      "rank_change": 0,
+      "history_rank_change": 13
+    },
+    {
+      "rank": 33,
+      "code": "SH600460",
+      "name": "士兰微",
+      "rank_change": 0,
+      "history_rank_change": 32
+    },
+    {
+      "rank": 34,
+      "code": "SH600589",
+      "name": "大位科技",
+      "rank_change": 0,
+      "history_rank_change": 270
+    },
+    {
+      "rank": 35,
+      "code": "SH600745",
+      "name": "*ST闻泰",
+      "rank_change": 0,
+      "history_rank_change": -14
+    },
+    {
+      "rank": 36,
+      "code": "SH600206",
+      "name": "有研新材",
+      "rank_change": 0,
+      "history_rank_change": 258
+    },
+    {
+      "rank": 37,
+      "code": "SZ002281",
+      "name": "光迅科技",
+      "rank_change": 0,
+      "history_rank_change": 73
+    },
+    {
+      "rank": 38,
+      "code": "SH600522",
+      "name": "中天科技",
+      "rank_change": 0,
+      "history_rank_change": 57
+    },
+    {
+      "rank": 39,
+      "code": "SH600578",
+      "name": "京能电力",
+      "rank_change": 0,
+      "history_rank_change": -19
+    },
+    {
+      "rank": 40,
+      "code": "SH688981",
+      "name": "中芯国际",
+      "rank_change": 0,
+      "history_rank_change": 75
+    },
+    {
+      "rank": 41,
+      "code": "SH601958",
+      "name": "金钼股份",
+      "rank_change": 0,
+      "history_rank_change": 84
+    },
+    {
+      "rank": 42,
+      "code": "SZ301526",
+      "name": "国际复材",
+      "rank_change": 0,
+      "history_rank_change": 287
+    },
+    {
+      "rank": 43,
+      "code": "SH603011",
+      "name": "合锻智能",
+      "rank_change": 0,
+      "history_rank_change": 7
+    },
+    {
+      "rank": 44,
+      "code": "SZ002050",
+      "name": "三花智控",
+      "rank_change": 0,
+      "history_rank_change": 18
+    },
+    {
+      "rank": 45,
+      "code": "SZ000988",
+      "name": "华工科技",
+      "rank_change": 0,
+      "history_rank_change": 14
+    },
+    {
+      "rank": 46,
+      "code": "SZ300059",
+      "name": "东方财富",
+      "rank_change": 0,
+      "history_rank_change": 6
+    },
+    {
+      "rank": 47,
+      "code": "SZ002639",
+      "name": "雪人集团",
+      "rank_change": 0,
+      "history_rank_change": 496
+    },
+    {
+      "rank": 48,
+      "code": "SZ000509",
+      "name": "华塑控股",
+      "rank_change": 0,
+      "history_rank_change": -26
+    },
+    {
+      "rank": 49,
+      "code": "SZ002636",
+      "name": "金安国纪",
+      "rank_change": 0,
+      "history_rank_change": 190
+    },
+    {
+      "rank": 50,
+      "code": "SZ002297",
+      "name": "博云新材",
+      "rank_change": 0,
+      "history_rank_change": 56
+    },
+    {
+      "rank": 51,
+      "code": "SH603629",
+      "name": "利通电子",
+      "rank_change": 0,
+      "history_rank_change": 25
+    },
+    {
+      "rank": 52,
+      "code": "SZ301205",
+      "name": "联特科技",
+      "rank_change": 0,
+      "history_rank_change": 1585
+    },
+    {
+      "rank": 53,
+      "code": "SZ300502",
+      "name": "新易盛",
+      "rank_change": 0,
+      "history_rank_change": 71
+    },
+    {
+      "rank": 54,
+      "code": "SZ002585",
+      "name": "双星新材",
+      "rank_change": 0,
+      "history_rank_change": 27
+    },
+    {
+      "rank": 55,
+      "code": "SH605006",
+      "name": "山东玻纤",
+      "rank_change": 0,
+      "history_rank_change": 25
+    },
+    {
+      "rank": 56,
+      "code": "SZ002463",
+      "name": "沪电股份",
+      "rank_change": 0,
+      "history_rank_change": 37
+    },
+    {
+      "rank": 57,
+      "code": "SZ002491",
+      "name": "通鼎互联",
+      "rank_change": 0,
+      "history_rank_change": 264
+    },
+    {
+      "rank": 58,
+      "code": "SZ002421",
+      "name": "达实智能",
+      "rank_change": 0,
+      "history_rank_change": 40
+    },
+    {
+      "rank": 59,
+      "code": "SH603267",
+      "name": "鸿远电子",
+      "rank_change": 0,
+      "history_rank_change": 338
+    },
+    {
+      "rank": 60,
+      "code": "SH688347",
+      "name": "华虹公司",
+      "rank_change": 0,
+      "history_rank_change": 294
+    },
+    {
+      "rank": 61,
+      "code": "SZ300184",
+      "name": "力源信息",
+      "rank_change": 0,
+      "history_rank_change": 326
+    },
+    {
+      "rank": 62,
+      "code": "SH600744",
+      "name": "华银电力",
+      "rank_change": 0,
+      "history_rank_change": -47
+    },
+    {
+      "rank": 63,
+      "code": "SH600759",
+      "name": "ST洲际",
+      "rank_change": 0,
+      "history_rank_change": -19
+    },
+    {
+      "rank": 64,
+      "code": "SH600519",
+      "name": "贵州茅台",
+      "rank_change": 0,
+      "history_rank_change": -47
+    },
+    {
+      "rank": 65,
+      "code": "SH600063",
+      "name": "皖维高新",
+      "rank_change": 0,
+      "history_rank_change": 679
+    },
+    {
+      "rank": 66,
+      "code": "SH600111",
+      "name": "北方稀土",
+      "rank_change": 0,
+      "history_rank_change": 151
+    },
+    {
+      "rank": 67,
+      "code": "SH603989",
+      "name": "艾华集团",
+      "rank_change": 0,
+      "history_rank_change": -36
+    },
+    {
+      "rank": 68,
+      "code": "SZ300394",
+      "name": "天孚通信",
+      "rank_change": 0,
+      "history_rank_change": 9
+    },
+    {
+      "rank": 69,
+      "code": "SH600367",
+      "name": "红星发展",
+      "rank_change": 0,
+      "history_rank_change": 70
+    },
+    {
+      "rank": 70,
+      "code": "SH600186",
+      "name": "莲花控股",
+      "rank_change": 0,
+      "history_rank_change": 0
+    },
+    {
+      "rank": 71,
+      "code": "SH600360",
+      "name": "华微电子",
+      "rank_change": 0,
+      "history_rank_change": 139
+    },
+    {
+      "rank": 72,
+      "code": "SZ000600",
+      "name": "建投能源",
+      "rank_change": 0,
+      "history_rank_change": 103
+    },
+    {
+      "rank": 73,
+      "code": "SH600183",
+      "name": "生益科技",
+      "rank_change": 0,
+      "history_rank_change": -9
+    },
+    {
+      "rank": 74,
+      "code": "SZ300620",
+      "name": "光库科技",
+      "rank_change": 0,
+      "history_rank_change": 254
+    },
+    {
+      "rank": 75,
+      "code": "SZ002613",
+      "name": "北玻股份",
+      "rank_change": 0,
+      "history_rank_change": 606
+    },
+    {
+      "rank": 76,
+      "code": "SZ000657",
+      "name": "中钨高新",
+      "rank_change": 0,
+      "history_rank_change": 113
+    },
+    {
+      "rank": 77,
+      "code": "SZ002129",
+      "name": "TCL中环",
+      "rank_change": 0,
+      "history_rank_change": -64
+    },
+    {
+      "rank": 78,
+      "code": "SH600032",
+      "name": "浙江新能",
+      "rank_change": 0,
+      "history_rank_change": 491
+    },
+    {
+      "rank": 79,
+      "code": "SZ002350",
+      "name": "北京科锐",
+      "rank_change": 0,
+      "history_rank_change": 489
+    },
+    {
+      "rank": 80,
+      "code": "SZ300964",
+      "name": "本川智能",
+      "rank_change": 0,
+      "history_rank_change": 1168
+    },
+    {
+      "rank": 81,
+      "code": "SZ002056",
+      "name": "横店东磁",
+      "rank_change": 0,
+      "history_rank_change": 75
+    },
+    {
+      "rank": 82,
+      "code": "SZ002015",
+      "name": "协鑫能科",
+      "rank_change": 0,
+      "history_rank_change": 69
+    },
+    {
+      "rank": 83,
+      "code": "SZ002241",
+      "name": "歌尔股份",
+      "rank_change": 0,
+      "history_rank_change": -58
+    },
+    {
+      "rank": 84,
+      "code": "SZ000791",
+      "name": "甘肃能源",
+      "rank_change": 0,
+      "history_rank_change": 704
+    },
+    {
+      "rank": 85,
+      "code": "SZ300408",
+      "name": "三环集团",
+      "rank_change": 0,
+      "history_rank_change": 32
+    },
+    {
+      "rank": 86,
+      "code": "SZ002859",
+      "name": "洁美科技",
+      "rank_change": 0,
+      "history_rank_change": 262
+    },
+    {
+      "rank": 87,
+      "code": "SZ301123",
+      "name": "奕东电子",
+      "rank_change": 0,
+      "history_rank_change": 515
+    },
+    {
+      "rank": 88,
+      "code": "SH600151",
+      "name": "航天机电",
+      "rank_change": 0,
+      "history_rank_change": 1089
+    },
+    {
+      "rank": 89,
+      "code": "SZ300285",
+      "name": "国瓷材料",
+      "rank_change": 0,
+      "history_rank_change": 145
+    },
+    {
+      "rank": 90,
+      "code": "SH605376",
+      "name": "博迁新材",
+      "rank_change": 0,
+      "history_rank_change": 185
+    },
+    {
+      "rank": 91,
+      "code": "SZ002957",
+      "name": "科瑞技术",
+      "rank_change": 0,
+      "history_rank_change": 47
+    },
+    {
+      "rank": 92,
+      "code": "SZ002251",
+      "name": "步步高",
+      "rank_change": 0,
+      "history_rank_change": -80
+    },
+    {
+      "rank": 93,
+      "code": "SH600487",
+      "name": "亨通光电",
+      "rank_change": 0,
+      "history_rank_change": 49
+    },
+    {
+      "rank": 94,
+      "code": "SH600982",
+      "name": "宁波能源",
+      "rank_change": 0,
+      "history_rank_change": 636
+    },
+    {
+      "rank": 95,
+      "code": "SH600237",
+      "name": "铜峰电子",
+      "rank_change": 0,
+      "history_rank_change": 879
+    },
+    {
+      "rank": 96,
+      "code": "SH603618",
+      "name": "杭电股份",
+      "rank_change": 0,
+      "history_rank_change": 102
+    },
+    {
+      "rank": 97,
+      "code": "SZ003036",
+      "name": "泰坦股份",
+      "rank_change": 0,
+      "history_rank_change": 66
+    },
+    {
+      "rank": 98,
+      "code": "SH600162",
+      "name": "香江控股",
+      "rank_change": 0,
+      "history_rank_change": -44
+    },
+    {
+      "rank": 99,
+      "code": "SZ002384",
+      "name": "东山精密",
+      "rank_change": 0,
+      "history_rank_change": -24
+    },
+    {
+      "rank": 100,
+      "code": "SZ000859",
+      "name": "国风新材",
+      "rank_change": 0,
+      "history_rank_change": 439
+    }
+  ]
+}
