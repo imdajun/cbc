@@ -1,0 +1,706 @@
+{
+  "status": "ok",
+  "count": 100,
+  "results": [
+    {
+      "rank": 1,
+      "code": "SZ000636",
+      "name": "SZ000636",
+      "rank_change": 0,
+      "history_rank_change": 2
+    },
+    {
+      "rank": 2,
+      "code": "SH600584",
+      "name": "SH600584",
+      "rank_change": 0,
+      "history_rank_change": 2
+    },
+    {
+      "rank": 3,
+      "code": "SZ002185",
+      "name": "SZ002185",
+      "rank_change": 0,
+      "history_rank_change": -2
+    },
+    {
+      "rank": 4,
+      "code": "SZ000539",
+      "name": "SZ000539",
+      "rank_change": 0,
+      "history_rank_change": 15
+    },
+    {
+      "rank": 5,
+      "code": "SH600726",
+      "name": "SH600726",
+      "rank_change": 0,
+      "history_rank_change": 6
+    },
+    {
+      "rank": 6,
+      "code": "SZ002579",
+      "name": "SZ002579",
+      "rank_change": 0,
+      "history_rank_change": -4
+    },
+    {
+      "rank": 7,
+      "code": "SH600172",
+      "name": "SH600172",
+      "rank_change": 0,
+      "history_rank_change": 5
+    },
+    {
+      "rank": 8,
+      "code": "SH603601",
+      "name": "SH603601",
+      "rank_change": 0,
+      "history_rank_change": -2
+    },
+    {
+      "rank": 9,
+      "code": "SH601138",
+      "name": "SH601138",
+      "rank_change": 0,
+      "history_rank_change": -2
+    },
+    {
+      "rank": 10,
+      "code": "SH601991",
+      "name": "SH601991",
+      "rank_change": 0,
+      "history_rank_change": 0
+    },
+    {
+      "rank": 11,
+      "code": "SZ002428",
+      "name": "SZ002428",
+      "rank_change": 0,
+      "history_rank_change": -2
+    },
+    {
+      "rank": 12,
+      "code": "SH600396",
+      "name": "SH600396",
+      "rank_change": 0,
+      "history_rank_change": 2
+    },
+    {
+      "rank": 13,
+      "code": "SZ000725",
+      "name": "SZ000725",
+      "rank_change": 0,
+      "history_rank_change": -5
+    },
+    {
+      "rank": 14,
+      "code": "SH600110",
+      "name": "SH600110",
+      "rank_change": 0,
+      "history_rank_change": 4
+    },
+    {
+      "rank": 15,
+      "code": "SZ000063",
+      "name": "SZ000063",
+      "rank_change": 0,
+      "history_rank_change": -10
+    },
+    {
+      "rank": 16,
+      "code": "SZ000767",
+      "name": "SZ000767",
+      "rank_change": 0,
+      "history_rank_change": 274
+    },
+    {
+      "rank": 17,
+      "code": "SH600863",
+      "name": "SH600863",
+      "rank_change": 0,
+      "history_rank_change": 67
+    },
+    {
+      "rank": 18,
+      "code": "SZ002484",
+      "name": "SZ002484",
+      "rank_change": 0,
+      "history_rank_change": -3
+    },
+    {
+      "rank": 19,
+      "code": "SH603011",
+      "name": "SH603011",
+      "rank_change": 0,
+      "history_rank_change": 11
+    },
+    {
+      "rank": 20,
+      "code": "SZ002669",
+      "name": "SZ002669",
+      "rank_change": 0,
+      "history_rank_change": 1
+    },
+    {
+      "rank": 21,
+      "code": "SZ002251",
+      "name": "SZ002251",
+      "rank_change": 0,
+      "history_rank_change": 163
+    },
+    {
+      "rank": 22,
+      "code": "SH601888",
+      "name": "SH601888",
+      "rank_change": 1,
+      "history_rank_change": 285
+    },
+    {
+      "rank": 23,
+      "code": "SZ300179",
+      "name": "SZ300179",
+      "rank_change": -1,
+      "history_rank_change": 2
+    },
+    {
+      "rank": 24,
+      "code": "SZ000509",
+      "name": "SZ000509",
+      "rank_change": 0,
+      "history_rank_change": 18
+    },
+    {
+      "rank": 25,
+      "code": "SH600487",
+      "name": "SH600487",
+      "rank_change": 1,
+      "history_rank_change": 91
+    },
+    {
+      "rank": 26,
+      "code": "SH603629",
+      "name": "SH603629",
+      "rank_change": -1,
+      "history_rank_change": 28
+    },
+    {
+      "rank": 27,
+      "code": "SZ002081",
+      "name": "SZ002081",
+      "rank_change": 0,
+      "history_rank_change": 228
+    },
+    {
+      "rank": 28,
+      "code": "SH600522",
+      "name": "SH600522",
+      "rank_change": 0,
+      "history_rank_change": 24
+    },
+    {
+      "rank": 29,
+      "code": "SZ300058",
+      "name": "SZ300058",
+      "rank_change": 0,
+      "history_rank_change": 120
+    },
+    {
+      "rank": 30,
+      "code": "SZ002156",
+      "name": "SZ002156",
+      "rank_change": 0,
+      "history_rank_change": 1
+    },
+    {
+      "rank": 31,
+      "code": "SH600578",
+      "name": "SH600578",
+      "rank_change": 0,
+      "history_rank_change": 51
+    },
+    {
+      "rank": 32,
+      "code": "SH600162",
+      "name": "SH600162",
+      "rank_change": 0,
+      "history_rank_change": 64
+    },
+    {
+      "rank": 33,
+      "code": "SZ002594",
+      "name": "SZ002594",
+      "rank_change": 0,
+      "history_rank_change": 74
+    },
+    {
+      "rank": 34,
+      "code": "SH600183",
+      "name": "SH600183",
+      "rank_change": 1,
+      "history_rank_change": 38
+    },
+    {
+      "rank": 35,
+      "code": "SZ002552",
+      "name": "SZ002552",
+      "rank_change": -1,
+      "history_rank_change": -9
+    },
+    {
+      "rank": 36,
+      "code": "SH600063",
+      "name": "SH600063",
+      "rank_change": 0,
+      "history_rank_change": 10
+    },
+    {
+      "rank": 37,
+      "code": "SH600745",
+      "name": "SH600745",
+      "rank_change": 0,
+      "history_rank_change": 32
+    },
+    {
+      "rank": 38,
+      "code": "SZ300059",
+      "name": "SZ300059",
+      "rank_change": 0,
+      "history_rank_change": 29
+    },
+    {
+      "rank": 39,
+      "code": "SZ000021",
+      "name": "SZ000021",
+      "rank_change": 0,
+      "history_rank_change": 2
+    },
+    {
+      "rank": 40,
+      "code": "SH600176",
+      "name": "SH600176",
+      "rank_change": 0,
+      "history_rank_change": -24
+    },
+    {
+      "rank": 41,
+      "code": "SH603678",
+      "name": "SH603678",
+      "rank_change": 0,
+      "history_rank_change": -18
+    },
+    {
+      "rank": 42,
+      "code": "SZ300394",
+      "name": "SZ300394",
+      "rank_change": 0,
+      "history_rank_change": 38
+    },
+    {
+      "rank": 43,
+      "code": "SZ002975",
+      "name": "SZ002975",
+      "rank_change": 1,
+      "history_rank_change": 35
+    },
+    {
+      "rank": 44,
+      "code": "SZ301217",
+      "name": "SZ301217",
+      "rank_change": -1,
+      "history_rank_change": -20
+    },
+    {
+      "rank": 45,
+      "code": "SH603773",
+      "name": "SH603773",
+      "rank_change": 0,
+      "history_rank_change": -23
+    },
+    {
+      "rank": 46,
+      "code": "SH600601",
+      "name": "SH600601",
+      "rank_change": 0,
+      "history_rank_change": 254
+    },
+    {
+      "rank": 47,
+      "code": "SH603986",
+      "name": "SH603986",
+      "rank_change": 0,
+      "history_rank_change": -10
+    },
+    {
+      "rank": 48,
+      "code": "SH600021",
+      "name": "SH600021",
+      "rank_change": 0,
+      "history_rank_change": 108
+    },
+    {
+      "rank": 49,
+      "code": "SZ002463",
+      "name": "SZ002463",
+      "rank_change": 0,
+      "history_rank_change": 8
+    },
+    {
+      "rank": 50,
+      "code": "SH603256",
+      "name": "SH603256",
+      "rank_change": 0,
+      "history_rank_change": -23
+    },
+    {
+      "rank": 51,
+      "code": "SH600519",
+      "name": "SH600519",
+      "rank_change": 0,
+      "history_rank_change": 37
+    },
+    {
+      "rank": 52,
+      "code": "SZ002636",
+      "name": "SZ002636",
+      "rank_change": 0,
+      "history_rank_change": -19
+    },
+    {
+      "rank": 53,
+      "code": "SH600330",
+      "name": "SH600330",
+      "rank_change": 0,
+      "history_rank_change": -33
+    },
+    {
+      "rank": 54,
+      "code": "SH603005",
+      "name": "SH603005",
+      "rank_change": 0,
+      "history_rank_change": -20
+    },
+    {
+      "rank": 55,
+      "code": "SZ300308",
+      "name": "SZ300308",
+      "rank_change": 0,
+      "history_rank_change": -42
+    },
+    {
+      "rank": 56,
+      "code": "SZ002436",
+      "name": "SZ002436",
+      "rank_change": 0,
+      "history_rank_change": 134
+    },
+    {
+      "rank": 57,
+      "code": "SZ002613",
+      "name": "SZ002613",
+      "rank_change": 0,
+      "history_rank_change": -6
+    },
+    {
+      "rank": 58,
+      "code": "SZ002457",
+      "name": "SZ002457",
+      "rank_change": 1,
+      "history_rank_change": 1163
+    },
+    {
+      "rank": 59,
+      "code": "SH600589",
+      "name": "SH600589",
+      "rank_change": -1,
+      "history_rank_change": -24
+    },
+    {
+      "rank": 60,
+      "code": "SZ000988",
+      "name": "SZ000988",
+      "rank_change": 0,
+      "history_rank_change": -4
+    },
+    {
+      "rank": 61,
+      "code": "SZ000002",
+      "name": "SZ000002",
+      "rank_change": 0,
+      "history_rank_change": 759
+    },
+    {
+      "rank": 62,
+      "code": "SH601958",
+      "name": "SH601958",
+      "rank_change": 0,
+      "history_rank_change": -34
+    },
+    {
+      "rank": 63,
+      "code": "SZ000977",
+      "name": "SZ000977",
+      "rank_change": 0,
+      "history_rank_change": 180
+    },
+    {
+      "rank": 64,
+      "code": "SZ002475",
+      "name": "SZ002475",
+      "rank_change": 1,
+      "history_rank_change": 78
+    },
+    {
+      "rank": 65,
+      "code": "SH603618",
+      "name": "SH603618",
+      "rank_change": 1,
+      "history_rank_change": 54
+    },
+    {
+      "rank": 66,
+      "code": "SH603267",
+      "name": "SH603267",
+      "rank_change": -2,
+      "history_rank_change": -30
+    },
+    {
+      "rank": 67,
+      "code": "SZ000037",
+      "name": "SZ000037",
+      "rank_change": 0,
+      "history_rank_change": 1096
+    },
+    {
+      "rank": 68,
+      "code": "SZ000630",
+      "name": "SZ000630",
+      "rank_change": 1,
+      "history_rank_change": 55
+    },
+    {
+      "rank": 69,
+      "code": "SH600460",
+      "name": "SH600460",
+      "rank_change": -1,
+      "history_rank_change": -31
+    },
+    {
+      "rank": 70,
+      "code": "SZ300975",
+      "name": "SZ300975",
+      "rank_change": 0,
+      "history_rank_change": -53
+    },
+    {
+      "rank": 71,
+      "code": "SH605580",
+      "name": "SH605580",
+      "rank_change": 0,
+      "history_rank_change": -1
+    },
+    {
+      "rank": 72,
+      "code": "SZ000600",
+      "name": "SZ000600",
+      "rank_change": 0,
+      "history_rank_change": -17
+    },
+    {
+      "rank": 73,
+      "code": "SZ002421",
+      "name": "SZ002421",
+      "rank_change": 0,
+      "history_rank_change": 28
+    },
+    {
+      "rank": 74,
+      "code": "SZ002806",
+      "name": "SZ002806",
+      "rank_change": 0,
+      "history_rank_change": 39
+    },
+    {
+      "rank": 75,
+      "code": "SH600759",
+      "name": "SH600759",
+      "rank_change": 0,
+      "history_rank_change": 42
+    },
+    {
+      "rank": 76,
+      "code": "SZ301511",
+      "name": "SZ301511",
+      "rank_change": 0,
+      "history_rank_change": 32
+    },
+    {
+      "rank": 77,
+      "code": "SZ301439",
+      "name": "SZ301439",
+      "rank_change": 1,
+      "history_rank_change": 2411
+    },
+    {
+      "rank": 78,
+      "code": "SH603989",
+      "name": "SH603989",
+      "rank_change": -1,
+      "history_rank_change": -39
+    },
+    {
+      "rank": 79,
+      "code": "SZ000090",
+      "name": "SZ000090",
+      "rank_change": 0,
+      "history_rank_change": 46
+    },
+    {
+      "rank": 80,
+      "code": "SZ301171",
+      "name": "SZ301171",
+      "rank_change": 0,
+      "history_rank_change": 427
+    },
+    {
+      "rank": 81,
+      "code": "SZ002015",
+      "name": "SZ002015",
+      "rank_change": 0,
+      "history_rank_change": 14
+    },
+    {
+      "rank": 82,
+      "code": "SZ002281",
+      "name": "SZ002281",
+      "rank_change": 0,
+      "history_rank_change": -42
+    },
+    {
+      "rank": 83,
+      "code": "SZ002491",
+      "name": "SZ002491",
+      "rank_change": 0,
+      "history_rank_change": -18
+    },
+    {
+      "rank": 84,
+      "code": "SH688635",
+      "name": "SH688635",
+      "rank_change": 0,
+      "history_rank_change": 104
+    },
+    {
+      "rank": 85,
+      "code": "SZ000690",
+      "name": "SZ000690",
+      "rank_change": 0,
+      "history_rank_change": 449
+    },
+    {
+      "rank": 86,
+      "code": "SZ002384",
+      "name": "SZ002384",
+      "rank_change": 0,
+      "history_rank_change": 29
+    },
+    {
+      "rank": 87,
+      "code": "SZ002859",
+      "name": "SZ002859",
+      "rank_change": 0,
+      "history_rank_change": -43
+    },
+    {
+      "rank": 88,
+      "code": "SZ300136",
+      "name": "SZ300136",
+      "rank_change": 2,
+      "history_rank_change": 32
+    },
+    {
+      "rank": 89,
+      "code": "SH601016",
+      "name": "SH601016",
+      "rank_change": -1,
+      "history_rank_change": 163
+    },
+    {
+      "rank": 90,
+      "code": "SH600360",
+      "name": "SH600360",
+      "rank_change": -1,
+      "history_rank_change": -47
+    },
+    {
+      "rank": 91,
+      "code": "SH600693",
+      "name": "SH600693",
+      "rank_change": 2,
+      "history_rank_change": 429
+    },
+    {
+      "rank": 92,
+      "code": "SH600032",
+      "name": "SH600032",
+      "rank_change": -1,
+      "history_rank_change": -26
+    },
+    {
+      "rank": 93,
+      "code": "SH688981",
+      "name": "SH688981",
+      "rank_change": -1,
+      "history_rank_change": -6
+    },
+    {
+      "rank": 94,
+      "code": "SH600744",
+      "name": "SH600744",
+      "rank_change": 0,
+      "history_rank_change": 46
+    },
+    {
+      "rank": 95,
+      "code": "SH601869",
+      "name": "SH601869",
+      "rank_change": 1,
+      "history_rank_change": 166
+    },
+    {
+      "rank": 96,
+      "code": "SZ002995",
+      "name": "SZ002995",
+      "rank_change": -1,
+      "history_rank_change": 66
+    },
+    {
+      "rank": 97,
+      "code": "SZ001896",
+      "name": "SZ001896",
+      "rank_change": 0,
+      "history_rank_change": 208
+    },
+    {
+      "rank": 98,
+      "code": "SZ000799",
+      "name": "SZ000799",
+      "rank_change": 6,
+      "history_rank_change": 1104
+    },
+    {
+      "rank": 99,
+      "code": "SZ301205",
+      "name": "SZ301205",
+      "rank_change": -1,
+      "history_rank_change": -67
+    },
+    {
+      "rank": 100,
+      "code": "SZ002297",
+      "name": "SZ002297",
+      "rank_change": -1,
+      "history_rank_change": -11
+    }
+  ]
+}
